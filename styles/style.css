@@ -1,0 +1,975 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+  
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.mask-group {
+  width: 100%;
+  height: 117rem;
+}
+.mask-group .wp-pusher {
+  box-sizing: border-box;
+  padding: 2.8rem 4rem 13.9rem 4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f8fa;
+}
+.mask-group .wp-pusher .nav-bar {
+  margin-bottom: 8.5rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .wppusher-logo {
+  margin-right: 68.4rem;
+  width: 20rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/wppusher-logo-copy.png');
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation {
+  margin-bottom: 0.1rem;
+  height: 4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .auto-group2 {
+  box-sizing: border-box;
+  padding: 1.1rem 4.4rem 1.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .auto-group2 .download{
+  margin-right: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .auto-group2 .learn-more {
+  margin-right: 4.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .auto-group2 .pricing {
+  margin-right: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .auto-group2 .help {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .auto-group1 .navigation .account {
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #646e7a;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .nav-bar .rectangle1 {
+  width: 135.8rem;
+  height: 0.2rem;
+  background-color: #e0e5e9;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 {
+  margin: 0rem 24.6rem 0rem 21.6rem;
+  width: calc(100% - 46.2rem);
+  height: 84.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel {
+  width: 89.2rem;
+  height: 84.5rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 79.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.049082879), 0 1.5rem 3.5rem rgba(42, 63, 78, 0.0955049843);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 {
+  margin: 4.1rem 0rem 4.69rem 0rem;
+  width: 58rem;
+  height: calc(100% - 8.7899rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .title {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .title .checkout {
+  margin: 0rem 0rem 4.2rem 4.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .title .rectangle2 {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 {
+  box-sizing: border-box;
+  padding: 0rem 4.7rem 4.1rem 4.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .basic {
+  margin: 0rem 26.3rem 1.3rem 0rem;
+  width: calc(100% - 26.3rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .basic .item1 {
+  margin-right: 1rem;
+  width: 3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .basic .item1 .item2 {
+  width: 1rem;
+  height: 2rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0142rem;
+  color: #548bc5;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .basic .item1 .oval1 {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #548bc5;
+  box-sizing: border-box;
+  border-radius: 1.5rem;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .basic .basic-information {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.016rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .first-name {
+  margin-right: 3rem;
+  width: 22.7rem;
+  height: 100%;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .first-name .first-name-copy {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .first-name .auto-group8 {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .last-name {
+  width: 22.7rem;
+  height: 100%;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .last-name .last-name-copy {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .auto-group7 .last-name .auto-group9 {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 22.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .e-mail {
+  width: 37rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .e-mail .e-mail-copy {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .auto-group6 .e-mail .auto-group10 {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 1rem 1.3rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #edeff2;
+  border-radius: 0.5rem;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-basic .rectangle3 {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment {
+  margin-bottom: 3.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 {
+  box-sizing: border-box;
+  padding: 0rem 4.8rem 4.1rem 4.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .payment {
+  margin: 0rem 23.3rem 2.1rem 0rem;
+  width: calc(100% - 23.3rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .payment .item3 {
+  margin-right: 1rem;
+  width: 3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .payment .item3 .item4 {
+  width: 1rem;
+  height: 2rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0142rem;
+  color: #548bc5;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .payment .item3 .oval2 {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #548bc5;
+  box-sizing: border-box;
+  border-radius: 1.5rem;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .payment .payment-information {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.016rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card .credit-card-copy {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card .auto-group12 {
+  box-sizing: border-box;
+  padding: 0.9rem 1.6rem 1rem 1.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #edeff2;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card .auto-group12 .card-number {
+  margin-right: 26.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card .auto-group12 .mm-yy {
+  margin-right: 2.2rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .auto-group11 .credit-card .auto-group12 .cvc {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .section-payment .rectangle4 {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #f5f7fa;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase {
+  margin: 0rem 4.8rem 0rem 4.9rem;
+  width: calc(100% - 9.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+button, .mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .button {
+  width: 100%;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #038e7d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 {
+  box-sizing: border-box;
+  padding: 2.3rem 7.5rem 0rem 7.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .mask {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .auto-group14 {
+  margin: 0.1rem 0rem 0.2rem 0rem;
+  width: 30.3rem;
+  height: calc(100% - 0.3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .auto-group14 .rectangle5 {
+  width: 9.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 1.5rem;
+  background-color: #646e7a;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .auto-group14 .need-any-help {
+  width: 30.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .auto-group14 .need-any-help .need-any-help-sub1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #1d2c3c;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .support .auto-group14 .need-any-help .need-any-help-sub2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #646e7a;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .auto-group5 .purchase .auto-group13 .poweredbystripe {
+  margin-left: 0.3rem;
+  width: 9.2rem;
+  height: 2.0101rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar {
+  box-sizing: border-box;
+  padding: 4.2rem 3.7rem 4.2rem 4.4rem;
+  width: 31.2rem;
+  height: 100%;
+  background-color: #1179bf;
+  border-radius: 0 0.6rem 0.6rem 0;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content {
+  width: 100%;
+  height: 61rem;
+  display: flex;
+  flex-direction: column;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan {
+  margin-bottom: 3.6rem;
+  width: 15.8rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .freelancer {
+  margin: 0rem 0rem 0.5rem 0.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.001rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .pricing {
+  margin: 0rem 1.8rem 0.3rem 0rem;
+  width: calc(100% - 1.8rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .pricing .item {
+  margin: 0rem 0.6rem 1.7rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .pricing .year {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .pricing .year .year-sub1 {
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .pricing .year .year-sub2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0015rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .plan .automatically-renews {
+  margin-left: 0.2rem;
+  max-width: 15.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details {
+  margin: 0rem 0rem 4.1rem 0.1rem;
+  width: 17rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .auto-group16 {
+  margin: 0.1rem 1.1rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .auto-group16 .combined-shape {
+  margin-bottom: 1.6rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .auto-group16 .combined-shape-copy {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .use-on-site {
+  max-width: 13.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .use-on-site .use-on-site-sub1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .use-on-site .use-on-site-sub2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .auto-group15 .use-on-site .use-on-site-sub3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .details .combined-shape-copy2 {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch {
+  margin: 0rem 0rem 4.1rem 0.2rem;
+  width: 18.4rem;
+  height: 5.1rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites {
+  width: 15.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.171875;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub5 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub6 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .need-20-client-sites .need-20-client-sites-sub7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .switch .rectangle6 {
+  opacity: 0.504;
+  width: 18rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  background-color: rgba(185, 245, 255, 0.5035665631);
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote {
+  width: 22.7rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .rectangle7 {
+  margin-bottom: 4.1rem;
+  opacity: 0.201;
+  width: 22.4rem;
+  height: 0.2rem;
+  background-color: rgba(255, 255, 255, 0.2005208284);
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .ftp-is-horrible {
+  margin: 0rem 0rem 1.7rem 0.2rem;
+  max-width: 22.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .ftp-is-horrible .ftp-is-horrible-sub1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .ftp-is-horrible .ftp-is-horrible-sub2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .ftp-is-horrible .ftp-is-horrible-sub3 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.0009rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .auto-group17 {
+  margin-right: 9.6rem;
+  width: calc(100% - 9.6rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .auto-group17 .bitmap {
+  margin-right: 1.4rem;
+  width: 4rem;
+  height: 100%;
+  background-color: #d8d8d8;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .auto-group17 .bitmap .auto-group-xghi-JRz {
+  width: 4rem;
+  height: 4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mask-group .wp-pusher .auto-group3 .panel .auto-group4 .side-bar .side-bar-content .quote .auto-group17 .kirk-beard {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.0008rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .wp-pusher-ivs {
+  margin-left: 2.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2000000817;
+  color: #636b6f;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mask-group .wp-pusher .auto-group3 .panel .wp-pusher-ivs .wp-pusher-ivs1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #636b6f;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .panel .wp-pusher-ivs .wp-pusher-ivs2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #31708f;
+  font-family: Lato, 'Source Sans Pro';
+}
+.mask-group .wp-pusher .auto-group3 .frame-1-gUU {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+  overflow: hidden;
+}
